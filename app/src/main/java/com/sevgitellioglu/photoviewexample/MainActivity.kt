@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
         img=findViewById(R.id.imageButton)
 
         var photo:PhotoViewAttacher= PhotoViewAttacher(img)
+
         photo.update()
+        println("deneme 1 2 3 ")
     }
 }
