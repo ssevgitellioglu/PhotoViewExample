@@ -20,5 +20,9 @@ class MainActivity : AppCompatActivity() {
 
         photo.update()
         println("deneme 1 2 3 ")
+
+        var sayi1:Int=5
+        var sayi2:Int=10
+        println(sayi1+sayi2)
     }
 }
